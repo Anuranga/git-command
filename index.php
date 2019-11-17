@@ -14,7 +14,8 @@ public function index()
  
  echo "New commit message";
 
- 
  echo "A branch new echo line";
+ 
+ echo "A branch second echo line";
 }
 }
