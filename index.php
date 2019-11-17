@@ -17,5 +17,7 @@ public function index()
  echo "A branch new echo line";
  
  echo "A branch second echo line";
+ 
+ echo "A branch new echo line";
 }
 }
