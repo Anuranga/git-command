@@ -28,6 +28,8 @@ public function index()
  
  echo "B branch New File Added";
  
- echo "before rebase";
+ echo "before rebase";	
+ 
+ echo "before rebased new";	
 }
 }
