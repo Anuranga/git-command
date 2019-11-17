@@ -27,5 +27,7 @@ public function index()
  echo "B ---------------";
  
  echo "B branch New File Added";
+ 
+ echo "before rebase";
 }
 }
