@@ -12,5 +12,7 @@ public function index()
  echo "B branch modification after rebase";
  
  echo "New commit message";
+ 
+ echo "B ---------------";
 }
 }
