@@ -19,7 +19,11 @@ public function index()
  echo "A branch second echo line";
  
  echo "A branch new echo line";
+
  
  echo "Branch B change";
+ 
+
+ echo "B ---------------";
 }
 }
