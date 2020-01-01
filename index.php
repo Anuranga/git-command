@@ -27,7 +27,7 @@ public function index()
 	
 	echo "6th change for branch A";
 	
-
+	echo "After Rename";
 }
 >>>>>>> 5th change for A
 }
