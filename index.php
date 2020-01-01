@@ -9,6 +9,8 @@ public function index()
 	echo " branch A modification";
 	
 	echo " branch A third modification";
+	
+	echo " brach copy of A";
 
 }
 }
