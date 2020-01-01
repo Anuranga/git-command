@@ -24,6 +24,10 @@ public function index()
 
 	echo "5th change for branch A";
 
+	
+	echo "6th change for branch A";
+	
+
 }
 >>>>>>> 5th change for A
 }
