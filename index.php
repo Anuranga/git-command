@@ -19,5 +19,8 @@ public function index()
 	echo "6th change for branch A";
 	
 	echo "Branch A Change - 2020-01-13";
+
+	echo "After Rename";
+
 }
 }
