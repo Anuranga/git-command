@@ -39,6 +39,7 @@ public function index()
 
  echo "test rebase with issue";
 
+ echo "Change for A and Merge to B";
  }
 
 }
