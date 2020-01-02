@@ -6,5 +6,7 @@ public function index()
  
  echo "branch B 2nd modification";
 
+ echo "B branch change to test git pull origin B";
+
  }
 }
