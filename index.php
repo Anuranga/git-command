@@ -2,6 +2,7 @@
 class TestGitCommands{
 public function index()
 <<<<<<< HEAD
+<<<<<<< HEAD
  {
  echo "Branch B";	
  
@@ -28,6 +29,11 @@ public function index()
 	echo "6th change for branch A";
 	
 	echo "After Rename";
+=======
+{
+
+ echo "A Rename";	
+>>>>>>> branch Commit
 }
 >>>>>>> 5th change for A
 }
