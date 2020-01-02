@@ -37,6 +37,8 @@ public function index()
 
  echo "B branch change to test git pull origin B";
 
+ echo "test rebase with issue";
+
  }
 
 }
