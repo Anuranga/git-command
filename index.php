@@ -33,7 +33,10 @@ public function index()
  echo "after git pull origin master";
 
  echo "change after B change and pushed";
-}
 
+
+ echo "B branch change to test git pull origin B";
+
+ }
 
 }
