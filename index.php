@@ -7,6 +7,7 @@ public function index()
 
  echo "after git pull origin master";
 
+ echo "change after B change and pushed";
 }
 
 }
