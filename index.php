@@ -1,6 +1,14 @@
 <?php 
 class TestGitCommands{
 public function index()
+
+ {
+ echo "Branch B";	
+ 
+ echo "branch B 2nd modification";
+
+ }
+
 {
 	echo "Branch A";
 	
@@ -21,6 +29,10 @@ public function index()
 	echo "Branch A Change - 2020-01-13";
 
 	echo "After Rename";
+
+{
+
+ echo "A Rename";	
 
 }
 }
