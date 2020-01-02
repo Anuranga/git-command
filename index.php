@@ -11,5 +11,20 @@ public function index()
  
  echo "Branch B changes 4th";
 
+	echo "Branch A";
+	
+	echo "changes to commit";
+	
+	echo " branch A modification";
+	
+	echo " branch A third modification";
+	
+
+	echo " brach copy of A";
+
+
+	echo "A branch chnage after meger and pull master with branch A";
+
+
 }
 }
