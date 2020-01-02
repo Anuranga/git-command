@@ -1,14 +1,6 @@
 <?php 
 class TestGitCommands{
 public function index()
-<<<<<<< HEAD
- {
- echo "Branch B";	
- 
- echo "branch B 2nd modification";
-
- }
-=======
 {
 	echo "Branch A";
 	
@@ -29,5 +21,4 @@ public function index()
 	
 
 }
->>>>>>> 5th change for A
 }
