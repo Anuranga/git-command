@@ -2,7 +2,6 @@
 class TestGitCommands{
 public function index()
 {
-
  echo "A Rename";	
 
  echo "after git pull origin master";
@@ -14,5 +13,6 @@ public function index()
  echo "test rebase with issue";
 
  echo "Change for A and Merge to B";
+
  }
 }
