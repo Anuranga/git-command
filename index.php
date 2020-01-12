@@ -15,10 +15,9 @@ public function index()
 	echo "A branch chnage after meger and pull master with branch A";
 
 	echo "5th change for branch A";
-
 	
 	echo "6th change for branch A";
 	
-
+	echo "Branch A Change - 2020-01-13";
 }
 }
